@@ -41,7 +41,6 @@ main.caixa {
 
 }
 .btn {
-    -moz-border-radius: 28;
     border-radius: 28px;
     text-shadow: 1px 1px 3px #06F406;
     font-family: 'alien';
